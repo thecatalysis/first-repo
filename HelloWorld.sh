@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Jenkins test"
+echo "Jenkins test "
